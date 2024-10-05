@@ -1127,7 +1127,7 @@ int accountnumber = 0;
                                                     } 
                                                 }
                                         } else {
-                                            cout << "Nigga that's not a bank!!" << endl;
+                                            cout << "Unrecognized Bank Name!" << endl;
                                             exit_function = true;
                                         }
                                         break;
